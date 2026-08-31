@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://graciasdios9999-prog.github.io/midlife-reset-lab-site/sitemap.xml
